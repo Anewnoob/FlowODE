@@ -1,2 +1,2 @@
 # FlowODE
-details of network setting for "Forecasting Reservoir Inflow via Recurrent Neural ODEs"
+Details of network setting for "Forecasting Reservoir Inflow via Recurrent Neural ODEs"
